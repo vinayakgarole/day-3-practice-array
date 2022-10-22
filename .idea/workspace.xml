@@ -35,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EvenPositionArray">
+  <component name="RunManager" selected="Application.ReverseArray">
     <configuration name="EvenPositionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.EvenPositionArray" />
       <module name="day-3-practice-array" />
@@ -75,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.PrintArray" />
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.ReverseArray" />
       <module name="day-3-practice-array" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.EvenPositionArray" />
         <item itemvalue="Application.LargestElementArray" />
         <item itemvalue="Application.SmallestElementArray" />
         <item itemvalue="Application.FrequencyArray" />
-        <item itemvalue="Application.PrintArray" />
       </list>
     </recent_temporary>
   </component>
