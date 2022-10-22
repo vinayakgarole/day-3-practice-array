@@ -35,9 +35,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FrequencyArray">
+  <component name="RunManager" selected="Application.LargestElementArray">
     <configuration name="FrequencyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.FrequencyArray" />
+      <module name="day-3-practice-array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.LargestElementArray" />
       <module name="day-3-practice-array" />
       <extension name="coverage">
         <pattern>
@@ -64,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestElementArray" />
         <item itemvalue="Application.FrequencyArray" />
         <item itemvalue="Application.PrintArray" />
       </list>
