@@ -9,7 +9,7 @@ public class SortAscendingOrder {
         int temp;
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter Elements in Array: ");
+        System.out.println("Enter Elements in Array:");
 
         for (int i=0; i<arr.length; i++) {
             arr[i] = sc.nextInt();
@@ -29,7 +29,7 @@ public class SortAscendingOrder {
         System.out.println("Sort Ascending order Elements:");
 
         for (int i=0; i<arr.length; i++) {
-            System.out.println(arr[i]+" ");
+            System.out.println(arr[i]+ " ");
         }
     }
 }
